@@ -1,6 +1,4 @@
-def greeting(msg):
-    print(msg)
-
+from helper import greeting
 
 def main():
     msg = input('What do you want to print?')
